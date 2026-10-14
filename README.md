@@ -2,16 +2,13 @@
 
 <img src="./assets/banner.svg" alt="J.A.R.V.I.S. style interface - Vegiraju Mahaveer Varma" width="100%"/>
 
-<a href="https://github.com/VegirajuMahaveerVarma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=780&lines=Good+day.+All+systems+online.;AI+%26+ML+Student+%7C+Developer;Curious+mind.+Relentless+builder.+%F0%9F%9A%80;Open-source+believer.+Awaiting+your+next+project." alt="Typing animation" />
-</a>
+<img src="./assets/typing.svg" alt="Good day. All systems online." width="760"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/mahaveer-varma-vegiraju-4988a9360"><img src="https://img.shields.io/badge/LINKEDIN-050f1c?style=for-the-badge&logo=linkedin&logoColor=00d4ff" alt="LinkedIn"/></a>
 <a href="https://github.com/VegirajuMahaveerVarma"><img src="https://img.shields.io/badge/GITHUB-050f1c?style=for-the-badge&logo=github&logoColor=00d4ff" alt="GitHub"/></a>
 <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-050f1c?style=for-the-badge&logo=googlechrome&logoColor=ffb800" alt="Portfolio"/></a>
-<img src="https://komarev.com/ghpvc/?username=VegirajuMahaveerVarma&color=00d4ff&style=for-the-badge&label=ACCESS+COUNT&labelColor=050f1c" alt="Profile views"/>
 
 </div>
 
