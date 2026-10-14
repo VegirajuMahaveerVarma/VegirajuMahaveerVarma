@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VegirajuMahaveerVarma&bg_color=050f1c&color=00d4ff&line=00d4ff&point=ffb800&area=true&area_color=00d4ff&hide_border=true&radius=8&title=Contribution%20Activity&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" width="100%"/>
+<img src="./assets/contributions.svg" alt="Animated contribution matrix" width="100%"/>
 
 </div>
 
