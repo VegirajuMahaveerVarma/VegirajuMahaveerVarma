@@ -91,7 +91,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## `> LATVERIAN.CONQUESTS`
+## `> CONQUESTS`
 
 | ID | Project | Briefing | Stack | Status |
 |:--:|:--|:--|:--|:--:|
