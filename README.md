@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="J.A.R.V.I.S. style interface - Vegiraju Mahaveer Varma" width="100%"/>
+<img src="./assets/banner.svg" alt="Vegiraju Mahaveer Varma - AI & ML Student, Developer, Open-Source Contributor" width="100%"/>
 
 <img src="./assets/typing.svg" alt="Good day. All systems online." width="760"/>
 
@@ -18,7 +18,7 @@
 
 ```text
 ╔═══════════════════════════════════════════════════════╗
-║  J.A.R.V.I.S.  //  USER RECORD                        ║
+║  DEVELOPER PROFILE  //  USER RECORD                   ║
 ╠═══════════════════════════════════════════════════════╣
 ║  USER ........... Vegiraju Mahaveer Varma             ║
 ║  ROLE ........... AI & ML Student | Developer         ║
@@ -31,7 +31,7 @@
 
 > I'm an **AI & ML student** passionate about building real-world applications, exploring artificial intelligence, and contributing to open-source projects. I enjoy turning ideas into working software and experimenting with technologies that solve meaningful problems.
 
-<img src="./assets/boot.svg" width="100%" alt="J.A.R.V.I.S. boot sequence"/>
+<img src="./assets/boot.svg" width="100%" alt="System boot sequence"/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -124,7 +124,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/VegirajuMahaveerVarma/VegirajuMahaveerVarma/output/snake-dark.svg" alt="Contribution snake" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VegirajuMahaveerVarma&bg_color=050f1c&color=00d4ff&line=00d4ff&point=ffb800&area=true&area_color=00d4ff&hide_border=true&radius=8&title=Contribution%20Activity&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
@@ -142,6 +142,6 @@ Open source works best when people build together. I'm always up for collaborati
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-<sub>`J.A.R.V.I.S. // END OF TRANSMISSION` &nbsp;|&nbsp; *Curious mind. Relentless builder. Open-source believer.* 🚀</sub>
+<sub>`// END OF TRANSMISSION` &nbsp;|&nbsp; *Curious mind. Relentless builder. Open-source believer.* 🚀</sub>
 
 </div>
