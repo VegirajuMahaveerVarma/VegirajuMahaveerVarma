@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" role="img" aria-label="System boot sequence">
-  <rect width="1000" height="260" rx="8" fill="#070a08" stroke="#1fbf5c" stroke-opacity="0.55"/>
-  <rect width="1000" height="28" rx="8" fill="#0f2e1c"/>
+  <rect width="1000" height="260" rx="8" fill="#070a08" stroke="#2f9e63" stroke-opacity="0.55"/>
+  <rect width="1000" height="28" rx="8" fill="#10281c"/>
   <circle cx="20" cy="14" r="5" fill="#ff5f56"/><circle cx="40" cy="14" r="5" fill="#ffbd2e"/><circle cx="60" cy="14" r="5" fill="#27c93f"/>
-  <text x="500" y="19" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#3dff8a" letter-spacing="3">sovereign@archive:~$ forge --armor</text>
+  <text x="500" y="19" text-anchor="middle" font-family="'Courier New',monospace" font-size="12" fill="#58c985" letter-spacing="3">doom@latveria:~$ forge --armor</text>
   <g font-family="'Courier New',monospace" font-size="15">
-    <text x="24" y="60" fill="#3dff8a">> FORGING ARMOR ................................ <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="0.4s" fill="freeze"/></text>
-    <text x="24" y="86" fill="#3dff8a">> VERIFYING SOVEREIGN: MAHAVEER VARMA ........ <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="1.0s" fill="freeze"/></text>
-    <text x="24" y="112" fill="#3dff8a">> BINDING MODULE: artificial_intelligence ..... <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/></text>
-    <text x="24" y="138" fill="#3dff8a">> BINDING MODULE: machine_learning ............ <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="2.0s" fill="freeze"/></text>
-    <text x="24" y="164" fill="#3dff8a">> BINDING MODULE: full_stack_development ...... <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="2.6s" fill="freeze"/></text>
-    <text x="24" y="190" fill="#3dff8a">> BINDING MODULE: embedded_systems ............ <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="3.1s" fill="freeze"/></text>
-    <text x="24" y="216" fill="#3dff8a">> BINDING MODULE: open_source_contribution .... <tspan fill="#9dffc2">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="3.7s" fill="freeze"/></text>
-    <text x="24" y="242" fill="#d4a72c">> THE ARCHIVE OBEYS. AWAITING YOUR COMMAND.<tspan fill="#9dffc2"></tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="4.2s" fill="freeze"/></text>
-    <text x="24" y="268" fill="#3dff8a">&gt; <tspan>_</tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
+    <text x="24" y="60" fill="#58c985">> FORGING ADAMANTIUM ................................ <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="0.4s" fill="freeze"/></text>
+    <text x="24" y="86" fill="#58c985">> VERIFYING DOCTOR: MAHAVEER VARMA .......... <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="1.0s" fill="freeze"/></text>
+    <text x="24" y="112" fill="#58c985">> DOOMBOT MODULE: artificial_intelligence ..... <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/></text>
+    <text x="24" y="138" fill="#58c985">> DOOMBOT MODULE: machine_learning ............ <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="2.0s" fill="freeze"/></text>
+    <text x="24" y="164" fill="#58c985">> DOOMBOT MODULE: full_stack_development ...... <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="2.6s" fill="freeze"/></text>
+    <text x="24" y="190" fill="#58c985">> DOOMBOT MODULE: embedded_systems ............ <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="3.1s" fill="freeze"/></text>
+    <text x="24" y="216" fill="#58c985">> DOOMBOT MODULE: open_source_contribution .... <tspan fill="#c5d3cc">[ OK ]</tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="3.7s" fill="freeze"/></text>
+    <text x="24" y="242" fill="#d4a72c">> LATVERIA OBEYS. AWAITING DOOM'S COMMAND.<tspan fill="#c5d3cc"></tspan><set attributeName="opacity" to="0" begin="0s"/><set attributeName="opacity" to="1" begin="4.2s" fill="freeze"/></text>
+    <text x="24" y="268" fill="#58c985">&gt; <tspan>_</tspan><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></text>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24" role="presentation">
-  <defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1fbf5c" stop-opacity="0"/><stop offset="0.25" stop-color="#1fbf5c"/><stop offset="0.75" stop-color="#1fbf5c"/><stop offset="1" stop-color="#1fbf5c" stop-opacity="0"/></linearGradient></defs>
+  <defs><linearGradient id="d" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2f9e63" stop-opacity="0"/><stop offset="0.25" stop-color="#2f9e63"/><stop offset="0.75" stop-color="#2f9e63"/><stop offset="1" stop-color="#2f9e63" stop-opacity="0"/></linearGradient></defs>
   <rect x="0" y="11" width="1000" height="2" fill="url(#d)"/>
   <polygon points="500,2 514,12 500,22 486,12" fill="#070a08" stroke="#d4a72c" stroke-width="2"/>
-  <circle cx="500" cy="12" r="3" fill="#3dff8a"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  <circle cx="500" cy="12" r="3" fill="#58c985"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
   <rect y="8" width="50" height="8" rx="2" fill="#ffffff"><animate attributeName="x" from="-50" to="1000" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.15;0.85;1" dur="4s" repeatCount="indefinite"/></rect>
 </svg>
