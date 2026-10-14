@@ -20,7 +20,7 @@
 ╔═══════════════════════════════════════════════════════╗
 ║  LATVERIA ROYAL ARCHIVE  //  SUBJECT RECORD           ║
 ╠═══════════════════════════════════════════════════════╣
-║  SUBJECT ....... Dr. Vegiraju Mahaveer Varma          ║
+║  SUBJECT ....... Vegiraju Mahaveer Varma          ║
 ║  TITLE ......... AI & ML Student | Developer          ║
 ║  DOMINION ...... Open Source                          ║
 ║  DIRECTIVE ..... Turn ideas into working software     ║
