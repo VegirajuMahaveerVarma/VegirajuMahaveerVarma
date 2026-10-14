@@ -63,7 +63,7 @@ def empty_weeks():
             for wd in range(7)]})
     return 0, weeks
 
-COLORS = ["#0b1b2b", "#0e4d66", "#0a7fa3", "#00b4d8", "#00e5ff"]
+COLORS = ["#0c150f", "#0e4d2a", "#12803f", "#1fbf5c", "#3dff8a"]
 
 def level(c, mx):
     if c <= 0: return 0
@@ -98,19 +98,19 @@ def build(total, weeks, caption=None):
         f'<rect x="{legend_x+i*20}" y="{TOP+grid_h+24}" width="13" height="13" rx="3" fill="{COLORS[i]}"/>' for i in range(5)
     ) + f'<text x="{legend_x+108}" y="{TOP+grid_h+34}" class="lbl">MORE</text>'
     right = caption or f"TOTAL: {total} // LAST 12 MONTHS"
-    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Animated contribution matrix: {total} contributions in the last year">
+    return f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Animated conquest ledger: {total} contributions in the last year">
   <defs>
     <linearGradient id="sw" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
-      <stop offset="0.85" stop-color="#00e5ff" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#bff6ff" stop-opacity="0.75"/>
+      <stop offset="0" stop-color="#3dff8a" stop-opacity="0"/>
+      <stop offset="0.85" stop-color="#3dff8a" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#d6ffe5" stop-opacity="0.75"/>
     </linearGradient>
-    <pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#00d4ff" stroke-opacity="0.05"/></pattern>
+    <pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#3dff8a" stroke-opacity="0.05"/></pattern>
   </defs>
   <style>
-    .lbl{{font-family:'Courier New',monospace;font-size:10px;fill:#4fa9c2;letter-spacing:2px}}
-    .ttl{{font-family:'Courier New',monospace;font-size:13px;fill:#5fe6ff;letter-spacing:4px;font-weight:700}}
-    .tot{{font-family:'Courier New',monospace;font-size:13px;fill:#ffb800;letter-spacing:3px;font-weight:700}}
+    .lbl{{font-family:'Courier New',monospace;font-size:10px;fill:#5fa07a;letter-spacing:2px}}
+    .ttl{{font-family:'Courier New',monospace;font-size:13px;fill:#3dff8a;letter-spacing:4px;font-weight:700}}
+    .tot{{font-family:'Courier New',monospace;font-size:13px;fill:#d4a72c;letter-spacing:3px;font-weight:700}}
     .c{{transform-box:fill-box;transform-origin:center;animation:pop .45s ease-out both}}
     .c.hot{{animation:pop .45s ease-out both,pulse 2.6s ease-in-out infinite}}
     .sweep{{animation:sweep 6s linear 2.2s infinite backwards}}
@@ -118,17 +118,17 @@ def build(total, weeks, caption=None):
     @keyframes pulse{{0%,100%{{opacity:1}}50%{{opacity:.5}}}}
     @keyframes sweep{{0%{{transform:translateX(0);opacity:0}}8%{{opacity:1}}92%{{opacity:1}}100%{{transform:translateX({53*P}px);opacity:0}}}}
   </style>
-  <rect width="{W}" height="{H}" rx="10" fill="#050f1c"/>
+  <rect width="{W}" height="{H}" rx="10" fill="#070a08"/>
   <rect width="{W}" height="{H}" rx="10" fill="url(#g)"/>
-  <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="none" stroke="#0a4a63"/>
-  <text x="40" y="34" class="ttl">CONTRIBUTION MATRIX</text>
+  <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="10" fill="none" stroke="#14502f"/>
+  <text x="40" y="34" class="ttl">CONQUEST LEDGER</text>
   <text x="{W-40}" y="34" text-anchor="end" class="tot">{right}</text>
   {"".join(months)}
   {day_lbls}
   {chr(10).join(cells)}
   <rect class="sweep" x="{LEFT-46}" y="{TOP-4}" width="46" height="{grid_h+4}" fill="url(#sw)" opacity="0" pointer-events="none"/>
   {legend}
-  <g fill="none" stroke="#00d4ff" stroke-width="2" opacity="0.8">
+  <g fill="none" stroke="#3dff8a" stroke-width="2" opacity="0.8">
     <path d="M10 28V10H28"/><path d="M972 10H990V28"/><path d="M10 222V240H28"/><path d="M990 222V240H972"/>
   </g>
 </svg>
