@@ -53,16 +53,6 @@ Exploring how modern AI systems work by building around them.
 
 ---
 
-### 🗓️ Journey
-
-| Period | Focus | Status |
-| --- | --- | --- |
-| **2022 – 2025** | Diploma in Automation and Robotics Engineering, CITD | ✅ Completed |
-| **2025 – Present** | B.E. in CSE (AI & ML), St. Martin's Engineering College | 🟢 Ongoing |
-| **Jul 2026 – Oct 2026** | Machine Learning Intern, FlyRank AI | ✅ Completed |
-
----
-
 ### 💼 Experience
 
 **Machine Learning Intern** · FlyRank AI · Remote · *July 2026 – October 2026*
