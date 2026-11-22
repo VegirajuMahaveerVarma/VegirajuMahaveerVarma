@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#070b13"/><stop offset="0.5" stop-color="#0f3d3a"/><stop offset="1" stop-color="#070b13"/>
+    </linearGradient>
+    <radialGradient id="gl"><stop offset="0" stop-color="#4de0c7" stop-opacity="0.35"/><stop offset="1" stop-color="#4de0c7" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="1000" height="220"/></clipPath>
+  </defs>
+  <style>
+    .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; }
+    .name { font-size: 54px; font-weight: 700; fill: #4de0c7; opacity: 0; animation: rise 1s ease-out 0.2s forwards; }
+    .role { font-size: 24px; fill: #a7f3e6; opacity: 0; animation: rise 1s ease-out 0.8s forwards; }
+    .cur  { fill: #4de0c7; animation: blink 1s steps(1) infinite; }
+    .w1 { animation: drift 9s linear infinite; }
+    .w2 { animation: drift 14s linear infinite reverse; }
+    .glow { animation: pulse 4s ease-in-out infinite; }
+    @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: translateY(0); } }
+    @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
+    @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-400px); } }
+    @keyframes pulse { 0%,100% { opacity: 0.5; } 50% { opacity: 1; } }
+  </style>
+  <rect width="1000" height="220" fill="url(#bg)"/>
+  <ellipse class="glow" cx="500" cy="110" rx="380" ry="130" fill="url(#gl)"/>
+  <g clip-path="url(#c)">
+    <path class="w1" d="M0 190 Q100 160 200 190 T400 190 T600 190 T800 190 T1000 190 T1200 190 T1400 190 V220 H0 Z" fill="#4de0c7" opacity="0.18"/>
+    <path class="w2" d="M-400 200 Q-300 175 -200 200 T0 200 T200 200 T400 200 T600 200 T800 200 T1000 200 T1200 200 V220 H-400 Z" fill="#4de0c7" opacity="0.12"/>
+  </g>
+  <text class="t name" x="500" y="105">Mahaveer Varma</text>
+  <text class="t role" x="500" y="150">AI/ML Student<tspan class="cur">|</tspan></text>
+</svg>
