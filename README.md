@@ -13,7 +13,7 @@
 ---
 
 ### 🧭 About Me
-I'm a 3rd-year **Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I learn by building projects around specific concepts and technologies, because it shows me how things really work behind the scenes.
+I'm a **Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I learn by building projects around specific concepts and technologies, because it shows me how things really work behind the scenes.
 
 🎓 St. Martin's Engineering College · 💼 Open to internships and jobs
 
@@ -50,21 +50,6 @@ Exploring how modern AI systems work by building around them.
 | [**skillgap-intelligence-system**](https://github.com/VegirajuMahaveerVarma/skillgap-intelligence-system) | An intelligent system that helps users identify skill gaps and see what to learn next. | `HTML` | 🟢 Active |
 | [**Campus-Services-Management-System**](https://github.com/VegirajuMahaveerVarma/Campus-Services-Management-System) | A platform to organize and manage campus services for students and staff. | `TypeScript` | 🟢 Active |
 | [**Habit-Tracker**](https://github.com/VegirajuMahaveerVarma/Habit-Tracker) | A mobile app for building and tracking daily habits. | `Dart` | 🟢 Active |
-
----
-
-### 💼 Experience
-
-**Machine Learning Intern** · FlyRank AI · Remote · *July 2026 – October 2026*
-
-- Gained practical exposure to machine learning concepts and industry-oriented workflows.
-
----
-
-### 🎓 Education
-
-**B.E. in Computer Science and Engineering (AI & ML)** · St. Martin's Engineering College · 2025 – 2028
-**Diploma in Automation and Robotics Engineering** · Central Institute of Tool Design (CITD) · 2022 – 2025
 
 ---
 
