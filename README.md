@@ -78,12 +78,14 @@ Exploring how modern AI systems work by building around them.
 
 ---
 
-### 📈 Activity
+### 🐍 Contributions
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VegirajuMahaveerVarma&theme=react-dark&bg_color=070b13&color=4de0c7&line=4de0c7&point=ffffff&hide_border=true)
-
-<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VegirajuMahaveerVarma/VegirajuMahaveerVarma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VegirajuMahaveerVarma/VegirajuMahaveerVarma/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/VegirajuMahaveerVarma/VegirajuMahaveerVarma/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
