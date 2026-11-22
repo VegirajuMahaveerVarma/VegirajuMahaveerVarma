@@ -15,8 +15,6 @@
 ### 🧭 About Me
 I'm a **Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I learn by building projects around specific concepts and technologies, because it shows me how things really work behind the scenes.
 
-🎓 St. Martin's Engineering College · 💼 Open to internships and jobs
-
 ---
 
 ### 🌱 Currently Learning
