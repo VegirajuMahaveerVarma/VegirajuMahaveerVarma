@@ -43,9 +43,9 @@ Exploring how modern AI systems work by building around them.
 
 | Project | Briefing | Stack | Status |
 | --- | --- | --- | --- |
+| [**skillgap-intelligence-system**](https://github.com/VegirajuMahaveerVarma/skillgap-intelligence-system) | An intelligent system that helps users identify skill gaps and see what to learn next. | `HTML` | 🟢 Active |
 | [**Dam-Monitoring-and-Alert-System**](https://github.com/VegirajuMahaveerVarma/Dam-Monitoring-and-Alert-System) | Diploma final-year project. A real-time dam water-level monitoring and alert system built on the ATmega328P. | `C++` `Embedded` | 🟢 Active |
 | [**flyrank-ml-internship**](https://github.com/VegirajuMahaveerVarma/flyrank-ml-internship) | Machine learning work and experiments from my internship. | `Python` `Jupyter` | 🟢 Active |
-| [**skillgap-intelligence-system**](https://github.com/VegirajuMahaveerVarma/skillgap-intelligence-system) | An intelligent system that helps users identify skill gaps and see what to learn next. | `HTML` | 🟢 Active |
 | [**Campus-Services-Management-System**](https://github.com/VegirajuMahaveerVarma/Campus-Services-Management-System) | A platform to organize and manage campus services for students and staff. | `TypeScript` | 🟢 Active |
 | [**Habit-Tracker**](https://github.com/VegirajuMahaveerVarma/Habit-Tracker) | A mobile app for building and tracking daily habits. | `Dart` | 🟢 Active |
 
